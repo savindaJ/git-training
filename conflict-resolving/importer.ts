@@ -6,4 +6,3 @@ console.log(isStudent);
 console.log(hobbies);
 console.log(role);
 console.log(person);
-
